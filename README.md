@@ -207,7 +207,7 @@ bank-churn-analysis/
 Data Analytics Graduate — NPower Canada Program, Toronto
 
 annaboiko1@icloud.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/anna-boiko1/) · [GitHub](https://github.com/AnnaBoiko1)
+ [LinkedIn](https://www.linkedin.com/in/anna-boiko1/) · [GitHub](https://github.com/AnnaBoiko1)· [Portfolio](https://annaboiko.me)
 
 ---
 
